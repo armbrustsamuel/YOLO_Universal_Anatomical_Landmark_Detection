@@ -1,7 +1,7 @@
 # YOLO_Universal_Anatomical_Landmark_Detection [arXiv](https://arxiv.org/pdf/2103.04657)
 
 PyTorch implementation for learning a universal model for anatomical landmark detection on mixed datasets.
-![results](images/results.jpg)
+![results](images/results.jpg) 
 
 [You Only Learn Once: Universal Anatomical Landmark Detection](https://github.com/ICT-MIRACLE-lab/YOLO_Universal_Anatomical_Landmark_Detection)  
  [Heqin Zhu](https://github.com/mbinary),  [Qingsong Yao](https://github.com/qsyao), [Li Xiao](http://miracle.ict.ac.cn/?page_id=151&lang=zh), [S. Kevin Zhou](http://miracle.ict.ac.cn/?page_id=151&lang=zh)  
